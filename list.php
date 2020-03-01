@@ -67,7 +67,7 @@ else {
         
 
 		<ul class="caption-style-2">
-          <?php foreach ($images2 as $img) { ?>
+          <?php foreach ($images as $img) { ?>
 			<li>
                 <?php  echo $img; ?>
 			</li>
